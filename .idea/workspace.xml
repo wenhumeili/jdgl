@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="062e2d69-0793-4fdd-a58d-72f933e6c55d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="062e2d69-0793-4fdd-a58d-72f933e6c55d" name="Default Changelist" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -81,6 +85,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jdgl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA\data\jdgl\src\main\java\com\jdgl\pojo" />
     </key>
@@ -97,6 +104,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jdgl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdgl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jdgl.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -111,8 +136,16 @@
       <updated>1607418282618</updated>
       <workItem from="1607418285341" duration="1905000" />
       <workItem from="1607477125270" duration="9952000" />
-      <workItem from="1607495622403" duration="795000" />
+      <workItem from="1607495622403" duration="1761000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1607496559540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607496559540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +162,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1607494741479">
       <screen x="0" y="0" width="1366" height="768" />
@@ -138,6 +175,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="410" y="43" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607496202010" />
+    <state width="1313" height="371" key="GridCell.Tab.0.bottom" timestamp="1607497346974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607497346974" />
+    <state width="1313" height="371" key="GridCell.Tab.0.center" timestamp="1607497346974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607497346974" />
+    <state width="1313" height="371" key="GridCell.Tab.0.left" timestamp="1607497346974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607497346974" />
+    <state width="1313" height="371" key="GridCell.Tab.0.right" timestamp="1607497346974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607497346974" />
+    <state width="1313" height="371" key="GridCell.Tab.1.bottom" timestamp="1607497346975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607497346975" />
+    <state width="1313" height="371" key="GridCell.Tab.1.center" timestamp="1607497346975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607497346975" />
+    <state width="1313" height="371" key="GridCell.Tab.1.left" timestamp="1607497346974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607497346974" />
+    <state width="1313" height="371" key="GridCell.Tab.1.right" timestamp="1607497346975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="371" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607497346975" />
     <state x="67" y="0" key="SettingsEditor" timestamp="1607496127964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
